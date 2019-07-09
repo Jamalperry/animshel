@@ -1,0 +1,36 @@
+h1 {
+  text-align: center;
+  color: red;
+  margin: 25px;
+}
+img {
+  width: 20%;
+  height: 20%
+}
+
+.pets {
+  text-align: center;
+  margin-left: 3%;
+  margin-right: 0.5%;
+}
+ .col1 {
+  float: left;
+  width: 30%;
+  border: 1px solid lightgrey;
+  padding: 4px;
+  margin: 2px;
+}
+.col2 {
+  float: left;
+  width: 30%;
+  border: 1px solid lightgrey;
+  padding: 4px;
+  margin: 2px;
+}
+.col3 {
+  float: left;
+  width: 30%;
+  border: 1px solid lightgrey;
+  padding: 4px;
+  margin: 2px;
+}
