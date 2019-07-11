@@ -1,8 +1,18 @@
+.hedel {
+	 text-align: center;
+	 font-size: 20px;
+}
 h1 {
-  text-align: center;
   color: red;
   margin: 25px;
+  text-decoration: overline;
 }
+.hedel h3 {
+  color: grey;
+  font-style: cursive;
+  font-weight: normal;
+}
+
 img {
   border: 3px solid lightgrey;
   width: 50%;
@@ -12,16 +22,26 @@ img {
 .col2 img {
   height: 35%;
 }
+.col3 img {
+  height: 35%;
+}
 
+.first {
+  font-weight: bolder;
+}
 .pets {
   text-align: center;
   margin-left: 1%;
   margin-right: 1%;
 }
 .pets ul li {
-  margin: 1px;
+  color: black;
+  margin:0px;
+  font-family: serif;
+
 }
  .col1 {
+  color: grey;
   float: left;
   width: 30%;
   border: 1px solid lightgrey;
@@ -29,16 +49,18 @@ img {
   margin: 2px;
 }
 .col2 {
+  color: darkblue;
   float: right;
   width: 30%;
-  border: 1px solid lightgrey;
+  border: 1px solid lightblue;
   padding: 4px;
-  margin: 2px;
+  margin-right: 0px;
 }
 .col3 {
-  float: left;
+  color: green;
+  float: right;
   width: 30%;
-  border: 1px solid lightgrey;
+  border: 0 px solid lightgreen;
   padding: 4px;
   margin: 2px;
 }
